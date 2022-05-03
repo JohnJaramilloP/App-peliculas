@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/App-peliculas/static/css/main.85733d9e.css",
+    "main.js": "/App-peliculas/static/js/main.bb19537d.js",
+    "static/media/accion-bad-doys.jpg": "/App-peliculas/static/media/accion-bad-doys.cb508a614660d2c71a63.jpg",
+    "static/media/accion-avengers.jpg": "/App-peliculas/static/media/accion-avengers.2d2e2b71d72073089942.jpg",
+    "static/media/terror-el-conjuro.jpg": "/App-peliculas/static/media/terror-el-conjuro.a1b14eef464481ef6cde.jpg",
+    "static/media/accion-tomb-raider.jpg": "/App-peliculas/static/media/accion-tomb-raider.47891f668583a27598e5.jpg",
+    "static/media/terror-insidious.jpg": "/App-peliculas/static/media/terror-insidious.5fabcd1582fe734ca2d0.jpg",
+    "static/media/terror-el-rito.jpg": "/App-peliculas/static/media/terror-el-rito.657c7843e39bd6c38cd9.jpg",
+    "static/media/terror-shutter.jpg": "/App-peliculas/static/media/terror-shutter.38c3695846a9d6bb0662.jpg",
+    "static/media/terror-the-ring.jpg": "/App-peliculas/static/media/terror-the-ring.9854ec984c78ed82c789.jpg",
+    "static/media/accion-mortal-kombat.jpg": "/App-peliculas/static/media/accion-mortal-kombat.8853ef92138d361aadbb.jpg",
+    "static/media/accion-mad-max.jpg": "/App-peliculas/static/media/accion-mad-max.c83d5466df937486ba29.jpg",
+    "static/media/terror-sinister.jpg": "/App-peliculas/static/media/terror-sinister.053e65128341d1b5bbb9.jpg",
+    "static/media/accion-oblivion.jpg": "/App-peliculas/static/media/accion-oblivion.9927ecfc11efe09b1985.jpg",
+    "static/media/accion-inframundo.jpg": "/App-peliculas/static/media/accion-inframundo.6593bc64dc09ea9a43c6.jpg",
+    "static/media/terror-la-monja.jpg": "/App-peliculas/static/media/terror-la-monja.2d1bfb1cf07e854e6eef.jpg",
+    "static/media/accion-elysium.jpg": "/App-peliculas/static/media/accion-elysium.71f18c76365b73952e0b.jpg",
+    "static/media/accion-john-wick.jpg": "/App-peliculas/static/media/accion-john-wick.9ffbc5359034b4419d10.jpg",
+    "static/media/terror-the-exorcist.jpg": "/App-peliculas/static/media/terror-the-exorcist.044d500e9c7dba2ce45c.jpg",
+    "static/media/accion-la-guerra-del-mañana.jpg": "/App-peliculas/static/media/accion-la-guerra-del-mañana.7ccdf00629e66adf14d9.jpg",
+    "static/media/terror-hereditary.jpg": "/App-peliculas/static/media/terror-hereditary.d05188c49fb5577d0f31.jpg",
+    "static/media/terror-el-orfanato.jpg": "/App-peliculas/static/media/terror-el-orfanato.aefb8709bfb104ba793d.jpg",
+    "index.html": "/App-peliculas/index.html",
+    "main.85733d9e.css.map": "/App-peliculas/static/css/main.85733d9e.css.map",
+    "main.bb19537d.js.map": "/App-peliculas/static/js/main.bb19537d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85733d9e.css",
+    "static/js/main.bb19537d.js"
+  ]
+}
