@@ -36,7 +36,7 @@ const SearchScreen = () => {
         <form onSubmit={handleSearch}>
           <input
             type="text"
-            placeholder="Buscar un héroe"
+            placeholder="Buscar una película"
             className="form"
             name="searchText"
             autoComplete="off"
@@ -55,7 +55,7 @@ const SearchScreen = () => {
         <hr />
 
         {q === "" ? (
-          <div className="alert alert-info">Buscar un heroe</div>
+          <div className="alert alert-info">Buscar una película</div>
         ) : (
           moviesFiltered.length === 0 && (
             <div className="alert alert-danger"> No hay resultados { q }</div>

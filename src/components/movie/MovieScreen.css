@@ -50,13 +50,13 @@
     }
 
     .img-thumbnail {
-        width: 35%;
-        min-width: 250px;
+        width: 32%;
+        min-width: 230px;
     }
 
     .Movie-text {
         padding: 1rem;
-        font-size: 1.2rem;
+        font-size: 1rem;
     }
 
     .btn-movie {
