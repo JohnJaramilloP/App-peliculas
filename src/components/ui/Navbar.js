@@ -33,6 +33,7 @@ export const Navbar = () => {
           duration={0.8}
           toggled={isOpen}
           toggle={setOpen}
+          width={"10%"}
         />
       </div>
       <nav 

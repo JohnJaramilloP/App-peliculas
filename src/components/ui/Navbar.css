@@ -74,10 +74,6 @@
 }
 
 @media (max-width: 780px){
-    .hamburger__menu {
-        background-color: rgba(0, 0, 0, .8);
-        border-radius: 10px;
-    }
 
     .navbar-brand {
         position: absolute;
@@ -86,12 +82,20 @@
     }
 
     .hamburger__menu {
+        width: 3.2rem;
         display:block;
+        background-color: rgba(0, 0, 0, .8);
         color: #fff;
+        border-radius: 10px;
         position: fixed;
         top: .6rem;
-        right: .3rem;
+        right: .1rem;
         z-index: 200;
+        overflow: hidden;
+    }
+
+    .hamburger__menu .hamburger {
+        font-size: .3rem;
     }
 
     .navbar {
