@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/App-peliculas/static/css/main.dd20f12d.css",
-    "main.js": "/App-peliculas/static/js/main.bb19537d.js",
+    "main.css": "/App-peliculas/static/css/main.03ff6aa9.css",
+    "main.js": "/App-peliculas/static/js/main.a5b6da69.js",
     "static/media/accion-bad-doys.jpg": "/App-peliculas/static/media/accion-bad-doys.cb508a614660d2c71a63.jpg",
     "static/media/accion-avengers.jpg": "/App-peliculas/static/media/accion-avengers.2d2e2b71d72073089942.jpg",
     "static/media/terror-el-conjuro.jpg": "/App-peliculas/static/media/terror-el-conjuro.a1b14eef464481ef6cde.jpg",
@@ -23,11 +23,11 @@
     "static/media/terror-hereditary.jpg": "/App-peliculas/static/media/terror-hereditary.d05188c49fb5577d0f31.jpg",
     "static/media/terror-el-orfanato.jpg": "/App-peliculas/static/media/terror-el-orfanato.aefb8709bfb104ba793d.jpg",
     "index.html": "/App-peliculas/index.html",
-    "main.dd20f12d.css.map": "/App-peliculas/static/css/main.dd20f12d.css.map",
-    "main.bb19537d.js.map": "/App-peliculas/static/js/main.bb19537d.js.map"
+    "main.03ff6aa9.css.map": "/App-peliculas/static/css/main.03ff6aa9.css.map",
+    "main.a5b6da69.js.map": "/App-peliculas/static/js/main.a5b6da69.js.map"
   },
   "entrypoints": [
-    "static/css/main.dd20f12d.css",
-    "static/js/main.bb19537d.js"
+    "static/css/main.03ff6aa9.css",
+    "static/js/main.a5b6da69.js"
   ]
 }
