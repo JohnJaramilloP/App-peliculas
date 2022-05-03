@@ -1,0 +1,135 @@
+.navbar {
+    width: 100%;
+    height: 4.5rem;
+    padding: .5rem 1rem;
+    border-radius: 0 0 15px 15px;
+    font-size: 1.4rem;
+    background-color: rgb(36, 12, 12);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.group {
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.navbar-brand {
+    font-size: 1.6rem;
+    width: 5%;
+    color: #353f5e;
+}
+
+.navbar-brand:hover {
+    color: #47557e;
+}
+
+.nav-item {
+    color: #fff;
+    text-decoration: none;
+}
+
+.nav-item:hover {
+    text-decoration: underline;
+}
+
+.navbar-group1 {
+    width: 60%;
+}
+
+.navbar-group2 {
+    width: 30%;
+}
+
+.nav-title {
+    color: #414d72;
+    font-size: 1.8rem;
+}
+
+.hamburger__menu {
+    display: none;
+}
+
+.btn-nav {
+    font-size: 1.2rem;
+    border-radius: 10px;
+    padding: .5rem 1rem;
+    color: #fff;
+    background-color: #283048;
+    border: none;
+    cursor: pointer;
+}
+
+.btn-nav:hover {
+    background-color: #47557e;
+}
+
+@media (max-width: 990px){
+    .nav-title {
+        font-size: 1.5rem;
+    }
+}
+
+@media (max-width: 780px){
+
+    .navbar-brand {
+        position: absolute;
+        top: 1rem;
+        left: 1rem;
+    }
+
+    .hamburger__menu {
+        display:block;
+        color: #fff;
+        position: fixed;
+        top: .6rem;
+        right: .3rem;
+        z-index: 200;
+    }
+
+    .navbar {
+        width: 100%;
+        height: 100vh;
+        top: 0;
+        left: -1000px;
+        background: rgba(0, 0, 0, .8);
+        position: absolute;
+        flex-direction: column;
+        z-index: 100;
+    }
+
+    .navbar.active {
+        top: 0;
+        left: 0;
+        right: 0;
+        transition: all .6s ease;
+    }
+
+    .group {
+        height: 50vh;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items:center;
+    }
+
+    .navbar-group2 {
+        width: 100%;
+    }
+
+    .nav-title {
+        font-size: 3rem;
+    }
+
+}
+
+@media (max-width: 480px) {
+    .menu__nav.active .menu__options {
+        font-size: 1.5rem;
+    }
+    .navbar__logo {
+        height: 60px;
+    }
+}

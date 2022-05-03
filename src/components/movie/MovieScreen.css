@@ -1,0 +1,66 @@
+.movie-container {
+    margin-top: 1rem;
+    width: 90%;
+    height: 90vh;
+    display: flex;
+    color: #fff;
+}
+
+.img-thumbnail {
+    width: 80%;
+    min-width: 350px;
+    border: 3px solid #fff;
+    border-radius: 5px;
+}
+
+.Movie-text {
+    padding-left: 1rem;
+    height: 70%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    font-size: 1.4rem;
+}
+
+.btn-movie {
+    width: 50%;
+    font-size: 1.2rem;
+    border-radius: 10px;
+    padding: .5rem 1rem;
+    align-self: center;
+    color: #fff;
+    background-color: #283048;
+    border: none;
+    cursor: pointer;
+}
+
+@media only screen and (max-width:780px){
+
+    .movie-container {
+        margin-top: 4rem;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .container-img {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+
+    .img-thumbnail {
+        width: 35%;
+        min-width: 250px;
+    }
+
+    .Movie-text {
+        padding: 1rem;
+        font-size: 1.2rem;
+    }
+
+    .btn-movie {
+        margin-top: 1rem;
+    }
+}
+
