@@ -129,6 +129,11 @@
     .menu__nav.active .menu__options {
         font-size: 1.5rem;
     }
+
+    .nav-title {
+        font-size: 2rem; 
+    }
+
     .navbar__logo {
         height: 60px;
     }
